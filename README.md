@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/hackGPT-v23-purple)
 
-`The original repo:` https://github.com/antonlevashov/hackGPT
+`The original repo:` https://github.com/NoDataFound/hackGPT
 
 `Test the app live here:` https://hackgpt.com
 <img width="1681" alt="Screenshot 2023-04-30 at 6 59 28 PM" src="https://user-images.githubusercontent.com/3261849/235382192-714758c2-5117-4c95-851d-eeeb9301221f.png">
